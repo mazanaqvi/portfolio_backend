@@ -3,7 +3,7 @@
       "id": 1,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port0_xxrdbo.png",
       "title": "CRM Website",
-      "type": "Website",
+      "type": "website",
       "url": "https://app.salesbuckets.com/",
       "icon": "globe"
     },
