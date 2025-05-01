@@ -3,7 +3,7 @@
       "id": 1,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port0_xxrdbo.png",
       "title": "CRM Website",
-      "type": "website",
+      "type": "Website",
       "url": "https://app.salesbuckets.com/",
       "icon": "globe"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port10_llfiqa.png",
       "title": "Eclaim  App",
-      "type": "app",
+      "type": "App",
       "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.fujitec.fujitec_eclaim",
       "appStoreUrl": "https://apps.apple.com/pk/app/engagenova-eclaims/id1556445883"
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124168/port11_t2rvsi.png",
       "title": "Moshaf ul Quran",
-      "type": "app",
+      "type": "App",
       "googlePlayUrl": "https://play.google.com/store/apps/details?id=kw.gov.qsa.quranapp&hl=ur",
       "appStoreUrl": "https://apps.apple.com/us/app/kuwait-quran-%D9%85%D8%B5%D8%AD%D9%81-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id1661634739"
     },
@@ -35,7 +35,7 @@
       "id": 5,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124165/port2_xnqy7f.png",
       "title": "Mashrab e Naab",
-      "type": "app",
+      "type": "App",
       "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.azaan.mashrabenaab",
       "appStoreUrl": "https://apps.apple.com/pk/app/mashrab-e-naab/id6443939739"
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port5_mcdxvm.png",
       "title": "My Black Market",
-      "type": "app",
+      "type": "App",
       "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.myblackmarkete.cypto_app",
       "appStoreUrl": "https://apps.apple.com/pk/app/my-black-market/id6446054554"
     },
@@ -51,28 +51,28 @@
       "id": 7,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port7_plpilf.png",
       "title": "Ski Maps",
-      "type": "youtube",
+      "type": "App",
       "youtubeUrl": "https://www.youtube.com/watch?v=EBiEi_3AOkc&ab_channel=AliHamza"
     },
     {
       "id": 8,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port4_lvtpja.png",
       "title": "Quiz Wizard ",
-      "type": "technology",
+      "type": "App",
       "technologies": ["Flutter", "Material UI Kit"]
     },
     {
       "id": 9,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port6_jslxgc.png",
       "title": "Qoutes App",
-      "type": "technology",
+      "type": "App",
       "technologies": ["Flutter", "Firebase"]
     },
     {
       "id": 10,
       "imageUrl": "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port1_yryzxi.png",
       "title": "Hair Tech 360",
-      "type": "technology",
+      "type": "App",
       "technologies": ["Flutter", "Firebase", "Machine Learning API"]
     }
   ]

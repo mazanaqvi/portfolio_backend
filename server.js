@@ -86,7 +86,7 @@ if (!fs.existsSync(portfolioFile)) {
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port7_plpilf.png",
       title: "Ski Maps",
-      type: "youtube",
+      type: "App",
       youtubeUrl:
         "https://www.youtube.com/watch?v=EBiEi_3AOkc&ab_channel=AliHamza",
     },
@@ -95,7 +95,7 @@ if (!fs.existsSync(portfolioFile)) {
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port4_lvtpja.png",
       title: "Quiz Wizard ",
-      type: "technology",
+      type: "App",
       technologies: ["Flutter", "Material UI Kit"],
     },
     {
@@ -103,7 +103,7 @@ if (!fs.existsSync(portfolioFile)) {
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port6_jslxgc.png",
       title: "Qoutes App",
-      type: "technology",
+      type: "App",
       technologies: ["Flutter", "Firebase"],
     },
     {
@@ -111,7 +111,7 @@ if (!fs.existsSync(portfolioFile)) {
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port1_yryzxi.png",
       title: "Hair Tech 360",
-      type: "technology",
+      type: "App",
       technologies: ["Flutter", "Firebase", "Machine Learning API"],
     },
   ];
