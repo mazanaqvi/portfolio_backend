@@ -34,7 +34,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 2,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port10_llfiqa.png",
-      title: "Live App",
+      title: "Eclaim  App",
       type: "app",
       googlePlayUrl:
         "https://play.google.com/store/apps/details?id=com.fujitec.fujitec_eclaim",
@@ -54,7 +54,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 4,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124168/port11_t2rvsi.png",
-      title: "Live App",
+      title: "Moshaf ul Quran",
       type: "app",
       googlePlayUrl:
         "https://play.google.com/store/apps/details?id=kw.gov.qsa.quranapp&hl=ur",
@@ -65,7 +65,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 5,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124165/port2_xnqy7f.png",
-      title: "Live App",
+      title: "Mashrab e Naab",
       type: "app",
       googlePlayUrl:
         "https://play.google.com/store/apps/details?id=com.azaan.mashrabenaab",
@@ -75,7 +75,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 6,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port5_mcdxvm.png",
-      title: "Live App",
+      title: "My Black Market",
       type: "app",
       googlePlayUrl:
         "https://play.google.com/store/apps/details?id=com.myblackmarkete.cypto_app",
@@ -85,7 +85,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 7,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port7_plpilf.png",
-      title: "App Demo",
+      title: "Ski Maps",
       type: "youtube",
       youtubeUrl:
         "https://www.youtube.com/watch?v=EBiEi_3AOkc&ab_channel=AliHamza",
@@ -94,7 +94,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 8,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port4_lvtpja.png",
-      title: "Made With,",
+      title: "Quiz Wizard ",
       type: "technology",
       technologies: ["Flutter", "Material UI Kit"],
     },
@@ -102,7 +102,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 9,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124166/port6_jslxgc.png",
-      title: "Made With,",
+      title: "Qoutes App",
       type: "technology",
       technologies: ["Flutter", "Firebase"],
     },
@@ -110,7 +110,7 @@ if (!fs.existsSync(portfolioFile)) {
       id: 10,
       imageUrl:
         "https://res.cloudinary.com/dlmy9i9nn/image/upload/v1746124167/port1_yryzxi.png",
-      title: "Made With,",
+      title: "Hair Tech 360",
       type: "technology",
       technologies: ["Flutter", "Firebase", "Machine Learning API"],
     },
